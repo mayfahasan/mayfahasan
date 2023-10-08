@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CV Ade Mayfa Fintri Putri Hasan</title>
+</head>
+<body>
+    <h1 align="center">CV Ade Mayfa Fintri Putri Hasan</h1>
+    <hr/>
+    <p align="center">Perkenalkan nama saya Ade Mayfa Fintri Putri Hasan, <br/>saya adalah mahasiswa di <strong>STT-NF</strong> dari Program Studi Sistem Informasi.</p>
+    <hr/>
+    <p>
+    <ol>
+        <li><h3>Pendidikan Formal</h3></li>
+        <ul type="disc"</ul>
+             <li>SDN Cibadung 03, 2016</li>
+             <li>MTS NURUL FALAAH, 2019</li>
+             <li>SMA NURUL FALAAH, 2023</li>
+             <li>Sistem Informasi STT-NF</li>
+    </ol>
+    <hr/>
+    <p align="center"><strong>Kontak Saya</strong></p>
+            <li align="center">wa: +62 838-1162-1540</li>
+            <li align="center">email: ademayfa@gmail.com</li>
+            <li align="center">telegram: @dracoree</li>
+    <hr/>
